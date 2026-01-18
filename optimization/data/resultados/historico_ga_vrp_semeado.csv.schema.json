@@ -1,0 +1,17 @@
+{
+  "fields": [
+    {
+      "name": "geracao",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "fitness_melhor_individuo",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

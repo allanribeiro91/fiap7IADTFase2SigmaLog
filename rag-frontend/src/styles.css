@@ -1,0 +1,96 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+}
+
+.app {
+  max-width: 900px;
+  margin: auto;
+  padding: 16px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.chat-container {
+  background: #fff;
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.messages {
+  min-height: 300px;
+  max-height: 420px;
+  overflow-y: auto;
+  margin-bottom: 12px;
+}
+
+.message {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.assistant {
+  justify-content: flex-start;
+}
+
+.bubble {
+  max-width: 70%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  white-space: pre-wrap;
+}
+
+.message.user .bubble {
+  background: #007bff;
+  color: #fff;
+}
+
+.message.assistant .bubble {
+  background: #e9ecef;
+  color: #333;
+}
+
+.input-area {
+  display: flex;
+  gap: 8px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 10px;
+}
+
+.input-area button {
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.suggestions button {
+  background: #9c9c9c;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+}

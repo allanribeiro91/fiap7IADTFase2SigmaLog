@@ -1,0 +1,101 @@
+IdHospital,Nome,Latitude,Longitude
+1,Hospital de Base do Distrito Federal (IHBDF),-15.8006717,-47.8891625
+2,Hospital Regional da Asa Norte (HRAN),-15.7847168,-47.8841754
+3,Hospital Universitário de Brasília (HUB),-15.771302,-47.8743633
+4,Hospital Materno Infantil de Brasília (HMIB),-15.8238177,-47.8975294
+5,Hospital Regional de Taguatinga (HRT),-15.8226725,-48.0691403
+6,Hospital Regional de Ceilândia (HRC),-15.8151346,-48.0970021
+7,Hospital Regional do Gama (HRG),-16.023695,-48.0697835
+8,Hospital Regional de Sobradinho (HRS),-15.6484601,-47.7931691
+9,Hospital Regional de Planaltina (HRPL),-15.6253154,-47.653472
+10,Hospital Regional de Samambaia (HRSAM),-15.8532367,-48.073427
+11,Hospital Regional de Santa Maria (HRSM),-16.0401658,-48.0372133
+12,Hospital Regional de Brazlândia (HRBZ),-15.6752771,-48.2036875
+13,Hospital Regional do Paranoá (HRP),-15.7814012,-47.7824032
+14,Hospital Regional do Guará (HRGU),-15.8179263,-47.9866569
+15,Hospital de Apoio de Brasília (HAB),-15.7559401,-47.9226774
+16,Hospital da Criança de Brasília (HCB),-15.7584695,-47.9199696
+17,Hospital São Vicente de Paulo (HSVP),-15.8372373,-48.0600197
+18,Hospital das Forças Armadas (HFA),-15.8012324,-47.9373345
+19,Hospital de Força Aérea de Brasília (HFAB),-15.8708877,-47.9031913
+20,Hospital Militar de Área de Brasília (HMAB),-15.7727535,-47.9308535
+21,Hospital Naval de Brasília,-15.8147858,-47.9150437
+22,UBS 01 Taguatinga Norte,-15.7955812,-48.0672329
+23,UBS 02 Taguatinga Norte,-15.8104012,-48.0635838
+24,UBS 03 Taguatinga Norte,-15.8331049,-48.0871074
+25,UBS 05 Taguatinga Sul,-15.8508435,-48.0472145
+26,UBS 06 Taguatinga Sul,-15.8362722,-48.0642048
+27,UBS 07 Taguatinga Norte,-15.8009132,-48.0946952
+28,UBS 01 Santa Maria,-16.027209,-48.027008
+29,UBS 02 Santa Maria,-16.0079432,-47.9904955
+30,UBS 01 São Sebastião,-15.902439,-47.7729157
+31,UBS 01 Recanto das Emas,-15.918988,-48.1049332
+32,UBS 01 Estrutural,-15.7836403,-47.9998093
+33,UBS 01 Varjão,-15.7100527,-47.8798177
+34,UBS 01 Itapoã,-15.7403029,-47.7649014
+35,UBS 01 Jardins Mangueiral,-15.8946668,-47.81744533
+36,UBS 01 Cruzeiro,-15.797046,-47.934145
+37,UBS 02 Cruzeiro,-15.783503,-47.9385418
+38,UBS Metropolitana,-15.8794808,-47.97442
+39,UBS 01 Candangolândia,-15.8518716,-47.9544504
+40,UBS 01 Núcleo Bandeirante,-15.8698423,-47.9668616
+41,UBS 01 Riacho Fundo I,-15.8861057,-48.0237135
+42,UBS 02 Riacho Fundo I,-15.8793864,-48.0036153
+43,UBS 01 Riacho Fundo II,-15.9093234,-48.0607011
+44,UBS 01 Águas Claras,-15.8543943,-48.038247
+45,UBS 01 Vicente Pires,-15.819232,-48.0246858
+46,UBS 01 Fercal,-15.6005831,-47.8731391
+47,UBS 01 Sobradinho II,-15.6438775,-47.8268803
+48,UBS 02 Sobradinho,-15.6438514,-47.8346051
+49,UBS 01 Planaltina (Vila Buritis),-15.6177452,-47.6436237
+50,UBS 02 Planaltina,-15.534044,-47.7114942
+51,UBS 01 Paranoá,-15.7692068,-47.7825042
+52,UBS 01 Lago Norte,-15.725496,-47.8764125
+53,UBS 01 Lago Sul,-15.8470842,-47.85473
+54,UBS 01 Gama,-16.020674,-48.0873352
+55,UBS 5 Granja do Torto,-15.7087626,-47.9162554
+56,UBS 5 Sobradinho (Basevi),-15.6441162,-47.8908713
+57,UBS 02 Paranoá (Quadra 18),-15.7707202,-47.7794809
+58,UBS 04 Paranoá (Jardim II),-16.0165971,-47.3858536
+59,UBS 19 São Sebastião (Vila do Boa),-15.8821655,-47.8004155
+60,UBS 12 São Sebastião (São José),-15.9096788,-47.7674599
+61,UUBS 5 Santa Maria,-16.0103369,-48.0024363
+62,UBS 8 Santa Maria,-16.0144018,-47.9910585
+63,UBS 9 Santa Maria,-16.0197626,-48.0251117
+64,UBS 2 Gama,-16.0365657,-48.0637311
+65,UBS 4 Gama,-16.0260783,-48.0596889
+66,UBS 3 Guará,-15.8495004,-47.9708464
+67,UBS 10 Recanto das Emas,-15.9300077,-48.1089857
+68,UBS 7 Ceilândia,-15.7957206,-48.1335935
+69,UBS 9 Ceilândia,-15.846576,-48.1261521
+70,UBS 10 Ceilândia,-15.824572,-48.1160541
+71,UBS 16 Ceilândia (Sol Nascente),-15.8343611,-48.1361191
+72,UBS 1 Brazlândia,-15.6772189,-48.197582
+73,UPA Ceilândia I,-15.8080671,-48.1384168
+74,UPA Ceilândia II,-15.790951,-48.1376898
+75,UPA Recanto das Emas,-15.9117854,-48.0600112
+76,UPA Samambaia,-15.8831351,-48.102718
+77,UPA Sobradinho,-15.6395176,-47.8222068
+78,UPA São Sebastião,-15.9009588,-47.7801697
+79,UPA Núcleo Bandeirante,-15.8759336,-47.9847267
+80,UPA Vicente Pires,-15.7971406,-48.0272268
+81,UPA Planaltina,-15.6168213,-47.6912723
+82,UPA Gama,-16.0149838,-48.0567389
+83,UPA Brazlândia,-15.6652367,-48.2007518
+84,UPA Paranoá,-15.7699247,-47.7857273
+85,UPA Riacho Fundo II,-15.8999357,-48.0427049
+86,Policlínica de Taguatinga,-15.834984,-48.0602371
+87,Policlínica de Ceilândia,-15.8248831,-48.1116407
+88,Policlínica do Gama,-16.0189655,-48.0708479
+89,Policlínica do Riacho Fundo 1,-15.881162,-48.0106085
+90,Hospital Sarah Kubitschek (Asa Sul),-15.7994698,-47.8936904
+91,Hospital Sarah Kubitschek (Lago Norte),-15.7525437,-47.8326085
+92,Instituto de Cardiologia do DF (ICDF),-15.8009982,-47.9373327
+93,Hospital Veterinário de Brasília (HVEP),-15.8169079,-48.073732
+94,Centro de Saúde 01 Asa Sul,-15.8319916,-47.9107407
+95,Hospital Dia,-15.8142352,-47.9093607
+96,Centro de Saúde Básica 11 - DST/AIDS,-15.7736077,-47.8929665
+97,UBS 03 Vila Planalto,-15.795264,-47.8485535
+98,Centro de Atenção Psicossocial CAPS I Brazlândia,-15.6722857,-48.2083374
+99,Centro de Atenção Psicossocial CAPS II Planaltina,-15.624939,-47.6512695
+100,Centro de Atenção Psicossocial CAPS AD III de Samambaia,-15.8750899,-48.1011611
