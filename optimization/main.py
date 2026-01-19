@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 
 def run_notebook():
-    notebook_path = Path("notebooks/otimization_track.ipynb")
+    notebook_path = Path("notebooks/optimization_track.ipynb")
 
     if not notebook_path.exists():
         raise FileNotFoundError(f"Notebook não encontrado: {notebook_path}")
@@ -13,10 +13,10 @@ def run_notebook():
         "-m",
         "jupyter",
         "nbconvert",
-        "--to",
-        "notebook",
+        "--to", "notebook",
         "--execute",
         "--inplace",
+        "--ExecutePreprocessor.kernel_name=python3",
         str(notebook_path),
     ]
 

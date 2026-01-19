@@ -98,6 +98,10 @@ A execução do Sigma Log é dividida em três etapas, correspondentes aos módu
 ### 1. Executando o módulo `optimization`
 O módulo **optimization** é responsável por calcular as rotas otimizadas utilizando o algoritmo genético.
 
+#### Passo 0 --> Ajustar o notebook, na primeira célula:
+PROJECT_ROOT = Path("C:\\Users\\aribe\\Documents\\FIAP\\Fase2\\optimization")
+APP_BACKEND = "C:\\Users\\aribe\\Documents\\FIAP\\Fase2\\rag-backend"
+
 #### Passos
 cd optimization
 virtualenv .venv
