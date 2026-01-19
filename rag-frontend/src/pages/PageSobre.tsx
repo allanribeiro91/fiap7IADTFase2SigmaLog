@@ -2,6 +2,9 @@ import styled from "styled-components";
 import { BoxGeneric } from "../components/BoxGeneric";
 import { SobreProjetoContent } from "../components/SobreProjetoContent";
 import allanImg from "../assets/allanribeiro.png";
+import andersonImg from "../assets/andersoncosta.png";
+import diegoImg from "../assets/diegocordeiro.png";
+import gustavoImg from "../assets/gustavopaulino.png";
 import githubImg from "../assets/github.png";
 
 import { Avatar } from "../components/Avatar";
@@ -100,9 +103,9 @@ const RepoImage = styled.img`
 const TEAM = {
   members: [
     { name: "Allan Ribeiro", rm: "RM367988", image: allanImg },
-    { name: "Maria Silva", rm: "RM654321" },
-    { name: "João Souza", rm: "RM112233" },
-    { name: "Ana Costa", rm: "RM332211" },
+    { name: "Anderson Costa", rm: "RM368340", image: andersonImg },
+    { name: "Diego Cordeiro", rm: "RM369026", image: diegoImg },
+    { name: "Gustavo Paulino", rm: "RM369057", image: gustavoImg },
   ],
 }
 
@@ -126,16 +129,10 @@ export function PageSobre() {
           </TeamGrid>
         </BoxGeneric>
 
-
         <BoxGeneric title="Explicação do projeto" eventKey="explicacao" defaultOpen>
           <ExplicacaoProjetoContent />
-        </BoxGeneric>
+        </BoxGeneric>  
 
-
-        
-      
-
-            
         <BoxGeneric title="Apresentação do Projeto" eventKey="video" defaultOpen>
               <VideoCard>
                 <VideoWrapper>
