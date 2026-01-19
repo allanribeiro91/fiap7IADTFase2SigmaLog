@@ -161,12 +161,14 @@ A execução do Sigma Log é dividida em três etapas, correspondentes aos módu
 O módulo **optimization** é responsável por calcular as rotas otimizadas utilizando o algoritmo genético.
 
 #### Passos
+```bash
 cd optimization
 python -m venv .venv
     Windows --> .venv\Scripts\activate
     Linux/macOS --> source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
+```
 
 Ao final da execução, os arquivos de resultados (CSV e HTML) serão gerados e utilizados pelos demais módulos do sistema.
 
@@ -175,6 +177,7 @@ Ao final da execução, os arquivos de resultados (CSV e HTML) serão gerados e 
 O rag-backend disponibiliza as APIs e o mecanismo de RAG que consome os dados gerados pela otimização.
 
 #### Passos
+```bash
 cd rag-backend
 python -m venv .venv
     Windows --> .venv\Scripts\activate
@@ -182,15 +185,18 @@ python -m venv .venv
 pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
     O backend estará disponível em: http://localhost:8000/docs
+```
 
 ### 3. Executando o módulo rag-frontend
 O rag-frontend é responsável pela interface de visualização e interação com o sistema.
 
 #### Passos
+```bash
 cd rag-frontend
 npm install
 npm run dev
     A aplicação estará disponível em: http://localhost:5173
+```
 ________________________________________
 
 ## Observações
