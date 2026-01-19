@@ -137,7 +137,7 @@ export function PageSobre() {
               <VideoCard>
                 <VideoWrapper>
                   <Iframe
-                    src="https://www.youtube.com/embed/p3NZn0mA_XI"
+                    src="https://www.youtube.com/embed/kRytmf1wVjE"
                     title="Apresentação do Projeto Logística Segura"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
